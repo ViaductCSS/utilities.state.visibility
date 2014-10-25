@@ -1,4 +1,4 @@
-utilities.format-model.visibility
+utilities.state.visibility
 =================================
 
-Visibility partial contained within the core framework's utilities format model directory
+Visibility partial contained within the core framework's utilities state directory
